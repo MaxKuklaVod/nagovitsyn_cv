@@ -7,7 +7,7 @@
     "python.testing.unittestArgs": [
         "-v",
         "-s",
-        ".",
+        "./numpy_task",
         "-p",
         "*_test.py"
     ]
